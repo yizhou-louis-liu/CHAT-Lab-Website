@@ -1,0 +1,17 @@
+---
+title: "Privacy by Design: A Machine Learning Approach to Develop Personlized User Interfaces for Online Cookie Banners"
+---
+
+How can we simplify decision-making process while promoting informed privacy decisions? Making online privacy decisions can be overwhelming, for example, constant online cookie consents often lead to privacy fatigue and uninformed choices. This project focuses on designing personalized user interfaces for cookie banners using machine learning (ML) algorithms. By pre-configuring default settings based on ML models that predict users’ preferences, this solution aims to alleviate decision-making burden and privacy fatigue, empowering users to make informed choices while maintaining autonomy.
+
+## Study background and purpose
+
+Existing privacy design strategies, such as increasing transparency, enhancing user control, and implementing privacy nudges, often fail to effectively address the complexities of privacy decision-making. **Increase transparency** can overwhelm users with excessive detail, while efforts to enhance control often lead to “choice overload” and the “control paradox,” where the sheer complexity of settings undermines usability. **Privacy nudges**, although promising, risk misaligning with user priorities if not thoughtfully implemented.
+
+**User-Tailored Privacy (UTP)** is a design principle that customizes privacy settings to align with individual user preferences, reducing the cognitive burden associated with privacy decision-making. By tailoring options to each user's specific needs, UTP empowers users to manage their privacy more effectively while simplifying complex choices. While UTP has been applied across domains like IoT and social media, its application to online cookie management remains under-explored. With cookies playing a critical role in data collection and user tracking, there is a growing need for adaptive, user-centric solutions that balance convenience with privacy protection.
+
+This work examines the development of “smart defaults” for cookie banners, leveraging machine learning to predict and tailor privacy settings based on user preferences, website context, and cookie types. By combining behavioral data and predictive modeling, the research aims to reduce decision-making fatigue, enhance user experience, and provide actionable insights into privacy management for online environments.
+
+## Methodology and Study Design
+
+Methodological Detail and Results will be provided upon successful publication. 

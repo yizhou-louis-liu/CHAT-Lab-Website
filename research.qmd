@@ -1,0 +1,47 @@
+---
+title: "Research"
+---
+
+CHAT Lab research sits at the intersection of cognitive psychology, human factors, human-computer interaction, and applied technology. Our central question is:
+
+> How can we design technologies that respect human cognition, reduce decision burden, and help people make informed choices?
+
+## Research areas
+
+::: {.project-card}
+### Stress, fatigue, and privacy decision-making
+
+People encounter many privacy choices online, including cookie consent, location sharing, app permissions, and profile disclosure. This line of work studies how repeated decisions, stress, cognitive burden, and interface design affect users’ privacy decisions and privacy-protective behavior.
+
+:::
+
+::: {.project-card}
+### Age-inclusive digital privacy education
+
+This work develops and evaluates education interventions that help younger and older adults understand online privacy risks and make informed choices. Projects compare different modalities that are used to deliver education content such as text, video, interactive tutorials, infographics, and chatbot.
+
+:::
+
+::: {.project-card}
+### Personalized privacy interfaces and applied machine learning
+
+Can data-driven models help reduce the burden of configuring privacy settings while preserving user autonomy? This line of work explores user-center interface design for privacy settings.
+
+:::
+
+
+::: {.project-card}
+### Human factors and usability in applied technology
+
+CHAT Lab is also interested in usability, safety, and user-centered design in applied contexts such as healthcare technology, decision support, and human-machine systems.
+
+:::
+
+## Example of Projects
+
+The `projects/` folder includes starter pages for project writeups. These can become public-facing summaries for students, collaborators, and grant reviewers.
+
+- [Stress and digital privacy decisions](projects/stress-privacy.qmd)
+- [Age-inclusive digital privacy education tutorial (Prototype Testing)](projects/privacy-education.qmd)
+- [Age-inclusive digital privacy education tutorial (Effectiveness Evaluation)](projects/privacy-education_quantitative.qmd)
+- [Personalized cookie interface design](projects/cookie-interface.qmd)

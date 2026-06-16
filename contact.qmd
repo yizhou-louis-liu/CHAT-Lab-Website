@@ -1,0 +1,26 @@
+---
+title: "Contact"
+---
+
+## Contact CHAT Lab
+
+::: {.contact-layout}
+
+::: {.contact-info}
+**CHAT Lab — Cognition, Human Factors, and Applied Technology**  
+Department of Psychology  
+The University of Alabama in Huntsville  
+Huntsville, Alabama
+
+**Director:** Yizhou “Louis” Liu, PhD  
+**Email:** yl1589@uah.edu  
+**Office:** Morton Hall 210  
+**Lab space:** [replace when assigned]
+:::
+
+::: {.contact-image}
+![](image/Morton_Hall.jpg){fig-alt="Morton Hall at the University of Alabama in Huntsville"}
+:::
+
+:::
+

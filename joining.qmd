@@ -1,0 +1,46 @@
+---
+title: "Join the Lab"
+---
+
+## Prospective students
+
+CHAT Lab welcomes students interested in interested in cognitive psychology, human factors, HCI, online privacy, and inclusive technology design.
+
+## Good fit
+
+You may be a good fit if you are interested in one or more of the following:
+
+- Understanding how people make decisions and interact with technology
+- Designing interfaces that reduce cognitive burden, improve usability, and enhance performance
+- Studying digital privacy, consent, cookies, permissions, and online behavior
+- Conducting experiments, interviews, focus groups, usability tests, or surveys
+
+
+## How to prepare
+
+## How to prepare
+
+Students do not need to know everything before joining the CHAT Lab. Helpful preparation includes curiosity, reliability, careful communication, attention to detail, and willingness to learn research methods.
+
+Because many CHAT Lab projects involve interactive technologies, simulations, data analysis, and prototype development, technical skills are a strong plus. Relevant experience may include but not limited to **Python, R, C/C++, Unity, JavaScript, HTML/CSS, web development, experiment programming, app development, data visualization, machine learning, or interface prototyping**.
+
+These skills are not required for every role. Students can also contribute through literature review, study design, IRB preparation, participant recruitment, data collection, qualitative coding, statistical analysis, usability testing, research writing, and conference presentations.
+
+## Inquiry email template
+
+Subject: Interest in CHAT Lab Research
+
+Dear Louis,
+
+My name is [Name], and I am a [year/program/major] student at [University]. I am interested in joining CHAT Lab because [brief reason]. I am especially interested in [specific research area or project]. My relevant experience includes [courses, skills, research, work experience, or motivation].
+
+I have attached my CV/resume and unofficial transcript if helpful. I would appreciate the opportunity to learn more about your research projects.
+
+Sincerely,  
+[Name]
+
+## Current openings
+
+- Undergraduate research assistants: status TBD
+- Graduate students: actively recruiting MS and PhD students to begin in the 2026-2027 academic year
+

@@ -1,0 +1,35 @@
+---
+title: "Publications"
+---
+
+## Sample publications
+
+
+Publications from the CHAT Lab can also be accessed from Dr. Yizhou Liu's [Google Scholar page](https://scholar.google.com/citations?user=BLunEyAAAAAJ&hl=en&oi=ao).
+
+- **Liu, Y.**, Byrne, K. A., Aly, H., & Knijnenburg, B. P. (Accepted in June 2025). Examining age differences in the effectiveness of digital privacy education interventions on online cookie decisions. *International Journal of Human-Computer Interaction*. Impact factor: 3.4. [doi:10.1080/10447318.2025.2532710](https://doi.org/10.1080/10447318.2025.2532710)
+
+- Byrne, K. A., Pilcher, J. J., **Liu, Y.**, Brancato, M., Spinelli, M., Rosinski, M., Alvarado Batres, A., & Daughenbaugh, D. (2025). A computational modeling approach to brief slow-paced breathing and moderators of reward-based decision-making in college students. *Acta Psychologica, 258*, 105222. Impact factor: 2.1. [doi:10.1016/j.actpsy.2025.105222](https://doi.org/10.1016/j.actpsy.2025.105222)
+
+- Aly, H., **Liu, Y.**, Khan, S., Ghaiumy Anaraky, R., Byrne, K. A., & Knijnenburg, B. P. (2025). Digital privacy education: Customized interventions for U.S. older and younger adults in rural and urban settings. *Technology in Society*, 102805. Impact factor: 12.5. [doi:10.1016/j.techsoc.2024.102805](https://doi.org/10.1016/j.techsoc.2024.102805)
+
+- **Liu, Y.**, Byrne, K. A., Aly, H., Ghaiumy Anaraky, R., & Knijnenburg, B. P. (2024). Can stress put digital privacy at risk? Evidence from a controlled experiment examining the impact of acute stress on privacy decisions on a simulated social network site. *Cyberpsychology, Behavior, and Social Networking, 27*(9), 664–672. Impact factor: 6.6. [doi:10.1089/cyber.2023.0687](https://doi.org/10.1089/cyber.2023.0687)
+
+- Aly, H., **Liu, Y.**, Ghaiumy Anaraky, R., Khan, S., Namara, M., Byrne, K. A., & Knijnenburg, B. P. (2024). Tailoring digital privacy education interventions for older adults: A comparative study on modality preferences and effectiveness. *Proceedings on Privacy Enhancing Technologies*. Impact factor: 5.7. [doi:10.56553/popets-2024-0036](https://doi.org/10.56553/popets-2024-0036)
+
+- Byrne, K. A., Lockwood, P. L., Ghaiumy Anaraky, R., & **Liu, Y.** (2023). Age differences in prosocial behavior depend on effort costs. *The Journals of Gerontology: Series B, 78*(6), 948–958. Impact factor: 4.59. [doi:10.1093/geronb/gbac194](https://doi.org/10.1093/geronb/gbac194)
+
+- Byrne, K. A., **Liu, Y.**, Shreeves, M., & Six, S. G. (2023). Working through negativity: The influence of affective states on effort-based decision-making. *Personality and Individual Differences, 201*, 111949. Impact factor: 3.95. [doi:10.1016/j.paid.2022.111949](https://doi.org/10.1016/j.paid.2022.111949)
+
+- Harris, M. W., Byrne, K. A., **Liu, Y.**, & Ghaiumy Anaraky, R. (2023). The cost of giving: Examining the relationship between narcissistic, self-sacrificing, and empathetic traits on effortful versus effortless prosocial behavior. *Journal of Research in Personality, 102*, 104320. Impact factor: 3.89. [doi:10.1016/j.jrp.2022.104320](https://doi.org/10.1016/j.jrp.2022.104320)
+
+- Harris, M. W., Byrne, K. A., Pury, C. L., Kowalski, R. M., & **Liu, Y.** (2022). More relaxed but less helpful: The relationship between stress, age, and self-reported prosocial behavior during the COVID-19 pandemic. *Psych, 4*(4), 833–842. Impact factor: 1.78. [doi:10.3390/psych4040061](https://doi.org/10.3390/psych4040061)
+
+
+## Presentations
+
+- Byrne, K., & **Liu, Y.** The effect of acute stress on privacy decision-making. *Human Factors and Ergonomics Society Annual Meeting*.
+
+- **Liu, Y.**, Ghaiumy Anaraky, R., Aly, H., & Byrne, K. The effect of privacy fatigue on privacy decision-making behavior. *Human Factors and Ergonomics Society Annual Meeting*.
+
+- Black, J., **Liu, L.**, Byrne, K. (2024, April). Can Digital Privacy Fatigue Be Induced? Examining Factors that Influence Users’ Privacy Fatigue Using an Experimental Design. *Poster presentation at the 7th Annual Clemson University Student Research Forum, Clemson, SC.*

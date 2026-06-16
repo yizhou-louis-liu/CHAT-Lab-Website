@@ -1,0 +1,59 @@
+---
+title: "CHAT Lab"
+subtitle: "Cognition, Human Factors, and Applied Technology"
+---
+
+::: {.hero}
+
+::: {.hero-text}
+# CHAT Lab
+
+## Cognition, Human Factors, and Applied Technology
+
+The CHAT Lab studies how people think, decide, learn, and interact with technology. We combine cognitive psychology, human factors, human-computer interaction, user research, and data-driven methods to design and evaluate technologies that support better decisions in real-world, high-stakes, and safety-critical contexts.
+
+**Lab Director:** Yizhou “Louis” Liu, PhD  
+**Affiliation:** Department of Psychology, The University of Alabama in Huntsville  
+
+[Learn about our research](research.qmd){.btn .btn-primary} [Prospective students](joining.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.hero-image}
+![](image/Louis_headshot.png){fig-alt="Yizhou Louis Liu, Director of the CHAT Lab"}
+:::
+
+:::
+
+## What we study
+
+::: {.grid}
+::: {.card}
+### Digital privacy decisions
+
+How do users make repeated online privacy choices, such as cookie decisions, app permissions, and social-media disclosures? How do fatigue, stress, age, and interface design shape those decisions?
+:::
+
+::: {.card}
+### Human-centered interfaces
+
+How can behavioral evidence and user research inform clearer, more usable, and more trustworthy interfaces for privacy, consent, automation, and decision support?
+:::
+
+::: {.card}
+### Applied technology and human factors
+
+How can prototypes, usability testing, machine learning, and human factors methods support safer and more effective technology in high-stakes or everyday settings?
+:::
+:::
+
+## Current directions
+
+- Privacy fatigue and repeated privacy decision-making
+- Age-inclusive digital privacy education and training
+- Stress, cognition, and digital decision-making
+- Data-driven and personalized privacy interface design
+- Human factors methods for evaluating interactive and applied technologies
+
+## For prospective students
+
+We welcome students interested in cognitive psychology, human factors, HCI, online privacy, and inclusive technology design. Please visit the [Join the Lab](joining.qmd) page for suggested preparation and inquiry instructions.

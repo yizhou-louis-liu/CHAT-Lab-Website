@@ -1,0 +1,20 @@
+---
+title: "Privacy Fatigue"
+---
+
+Modern users face repeated privacy choices. This project studies how repeated privacy decision-making may produce fatigue, lower engagement, and less protective behavior.
+
+## Core question
+
+Can repeated privacy decisions lead to measurable privacy fatigue, and how does that fatigue affect behavior?
+
+## Methods
+
+- Repeated decision tasks
+- Survey measurement
+- Behavioral outcomes
+- Structural equation modeling or mixed-effects modeling
+
+## Applied goal
+
+Identify design strategies that reduce unnecessary burden without removing user control.

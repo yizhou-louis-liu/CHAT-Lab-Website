@@ -1,0 +1,278 @@
+/* CHAT Lab starter styling. Edit freely. */
+
+:root {
+  --chat-dark: #102033;
+  --chat-blue: #1f5f99;
+  --chat-light: #f5f7fb;
+  --chat-border: #dfe5ee;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--chat-border);
+}
+
+.hero {
+  padding: 4rem 2rem;
+  margin: 0 0 2rem 0;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, #eef4fb 0%, #ffffff 100%);
+  border: 1px solid var(--chat-border);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: var(--chat-dark);
+}
+
+.hero h2 {
+  font-size: 1.35rem;
+  font-weight: 500;
+  color: var(--chat-blue);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card, .project-card, .person, .placeholder {
+  padding: 1.25rem;
+  border: 1px solid var(--chat-border);
+  border-radius: 1rem;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(16, 32, 51, 0.05);
+  margin-bottom: 1rem;
+}
+
+.card h3, .project-card h3 {
+  color: var(--chat-dark);
+  margin-top: 0;
+}
+
+.btn {
+  margin-right: 0.5rem;
+  margin-top: 1rem;
+}
+
+blockquote {
+  border-left: 4px solid var(--chat-blue);
+  padding-left: 1rem;
+  color: #333333;
+}
+
+footer {
+  border-top: 1px solid var(--chat-border);
+}
+
+
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.hero-text {
+  flex: 2;
+}
+
+.hero-image {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image img {
+  max-width: 260px;
+  width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-text {
+    text-align: left;
+  }
+}
+
+
+
+
+.contact-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem;
+  margin-top: 1.5rem;
+}
+
+.contact-info {
+  flex: 1.2;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.contact-image {
+  flex: 1;
+  text-align: center;
+}
+
+.contact-image img {
+  max-width: 420px;
+  width: 100%;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 768px) {
+  .contact-layout {
+    flex-direction: column;
+  }
+
+  .contact-image {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+.project-summary {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.project-two-col {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
+  gap: 2rem;
+  align-items: start;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.project-text {
+  line-height: 1.7;
+}
+
+.project-side-image {
+  text-align: center;
+}
+
+.project-figure {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 12px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+}
+
+.project-full-figure {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 1.5rem auto 2rem auto;
+  border-radius: 12px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+}
+
+.measure-box,
+.findings-box,
+.implications-box {
+  border: 2px solid #f05a28;
+  border-left: 7px solid #f05a28;
+  background: #fffaf7;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+  border-radius: 10px;
+  line-height: 1.65;
+}
+
+.findings-box {
+  background: #fff8f3;
+}
+
+.implications-box {
+  border-color: #2f6f8f;
+  border-left-color: #2f6f8f;
+  background: #f7fbfd;
+}
+
+@media (max-width: 768px) {
+  .project-two-col {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+
+
+
+.age-box {
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  border-radius: 10px;
+  line-height: 1.65;
+  background: #fff;
+}
+
+.age-box-older {
+  border: 2px solid #f05a28;
+  border-left: 7px solid #f05a28;
+  background: #fffaf7;
+}
+
+.age-box-younger {
+  border: 2px solid #563d7c;
+  border-left: 7px solid #563d7c;
+  background: #faf8ff;
+}
+
+.age-box h3 {
+  margin-top: 0;
+}
+
+
+
+
+
+
+.outcome-box,
+.knowledge-box,
+.behavior-box {
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0 2rem 0;
+  border-radius: 10px;
+  line-height: 1.65;
+  background: #fff;
+}
+
+.outcome-box {
+  border: 2px solid #2f6f8f;
+  border-left: 7px solid #2f6f8f;
+  background: #f7fbfd;
+}
+
+.knowledge-box {
+  border: 2px solid #f05a28;
+  border-left: 7px solid #f05a28;
+  background: #fffaf7;
+}
+
+.behavior-box {
+  border: 2px solid #563d7c;
+  border-left: 7px solid #563d7c;
+  background: #faf8ff;
+}

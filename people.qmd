@@ -1,0 +1,45 @@
+---
+title: "Lab Members"
+---
+
+## Lab Director
+
+::: {.person}
+### Yizhou “Louis” Liu, PhD
+
+**Assistant Professor, Department of Psychology**  
+**The University of Alabama in Huntsville**
+
+Dr. Liu’s research focuses on cognitive psychology, decision-making, human-computer interaction, and intervention design. His work examines how cognitive, emotional, and contextual factors including stress, fatigue, and interface design influence internet users’ privacy-related decisions. He uses experimental methods, advanced statistical modeling, and user-centered design approaches to develop interventions that facilitate more informed decision-making, reduce stress, and improve users’ experiences with technology. Outside of work, he enjoys playing tennis and soccer, staying active, and spending time with family.
+
+
+**Research interests:** Decision-Making, Human-Computer Interaction, Intervention and Training, User-centered Design
+:::
+
+## Graduate students
+
+Add graduate student profiles here as the lab grows.
+
+::: {.placeholder}
+### Student Name
+
+Program, year  
+Research interests: ...  
+Email / website: ...
+:::
+
+## Undergraduate research assistants
+
+Add undergraduate research assistant profiles here.
+
+::: {.placeholder}
+### Student Name
+
+Major, year  
+Project: ...  
+Role: ...
+:::
+
+## Alumni
+
+Add alumni here as students graduate or move on to new positions.
