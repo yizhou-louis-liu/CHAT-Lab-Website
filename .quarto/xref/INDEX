@@ -1,0 +1,38 @@
+{
+  "contact.qmd": {
+    "contact.html": "7f4dd2d9"
+  },
+  "index.qmd": {
+    "index.html": "3b612a18"
+  },
+  "joining.qmd": {
+    "joining.html": "2ea9409a"
+  },
+  "people.qmd": {
+    "people.html": "83751519"
+  },
+  "projects/cookie-interface.qmd": {
+    "cookie-interface.html": "fcd5a9be"
+  },
+  "projects/privacy-education.qmd": {
+    "privacy-education.html": "7729d792"
+  },
+  "projects/privacy-education_quantitative.qmd": {
+    "privacy-education_quantitative.html": "8169e075"
+  },
+  "projects/privacy-fatigue.qmd": {
+    "privacy-fatigue.html": "76bd2130"
+  },
+  "projects/stress-privacy.qmd": {
+    "stress-privacy.html": "f492d179"
+  },
+  "publications.qmd": {
+    "publications.html": "a3441437"
+  },
+  "research.qmd": {
+    "research.html": "e7e9164e"
+  },
+  "teaching.qmd": {
+    "teaching.html": "e7c70bd6"
+  }
+}
