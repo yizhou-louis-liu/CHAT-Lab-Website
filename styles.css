@@ -276,3 +276,47 @@ footer {
   border-left: 7px solid #563d7c;
   background: #faf8ff;
 }
+
+
+
+
+
+
+
+
+
+
+
+.member-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.member-photo {
+  flex: 0 0 180px;
+}
+
+.member-photo img {
+  width: 180px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.member-info {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .member-card {
+    flex-direction: column;
+  }
+
+  .member-photo img {
+    width: 220px;
+    height: auto;
+  }
+}

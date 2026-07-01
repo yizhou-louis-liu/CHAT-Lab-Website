@@ -18,19 +18,27 @@ Dr. Liu’s research focuses on cognitive psychology, decision-making, human-com
 
 ## Graduate students
 
-Add graduate student profiles here as the lab grows.
+::: {.person .member-card}
 
-::: {.placeholder}
-### Student Name
+::: {.member-photo}
+![](image/Atchley.jpg){fig-alt="Andrew Atchley, doctoral student in the CHAT Lab"}
+:::
 
-Program, year  
-Research interests: ...  
-Email / website: ...
+::: {.member-info}
+### Andrew Atchley
+
+**Doctoral Student**  
+Department of Psychology  
+The University of Alabama in Huntsville
+
+Andrew Atchley is a doctoral student interested in decision-making, cognitive workload, and trust in automation in safety-critical environments.
+
+**Research interests:** Decision-making, cognitive workload, trust in automation, safety-critical systems
+:::
+
 :::
 
 ## Undergraduate research assistants
-
-Add undergraduate research assistant profiles here.
 
 ::: {.placeholder}
 ### Student Name
@@ -40,6 +48,4 @@ Project: ...
 Role: ...
 :::
 
-## Alumni
 
-Add alumni here as students graduate or move on to new positions.
