@@ -19,7 +19,7 @@ The CHAT Lab studies how people think, decide, learn, and interact with technolo
 :::
 
 ::: {.hero-image}
-![](image/Louis_headshot.png){fig-alt="Yizhou Louis Liu, Director of the CHAT Lab"}
+![](image/Louis_headshot.jpg){fig-alt="Yizhou Louis Liu, Director of the CHAT Lab"}
 :::
 
 :::

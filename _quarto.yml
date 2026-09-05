@@ -25,10 +25,9 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      - text: CV
-        href: assets/Louis_Liu_CV.pdf
       - text: Scholar
-        href: https://scholar.google.com/citations?user=BLunEyAAAAAJ&hl=en&oi=ao
+        href: https://scholar.google.com/citations?user=MouYe6sAAAAJ&hl=en
+        target: _blank
   page-footer:
     left: "© 2026 CHAT Lab"
     right: "Cognition, Human Factors, and Applied Technology Lab"
