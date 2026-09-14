@@ -16,7 +16,7 @@ Dr. Liu’s research focuses on cognitive psychology, decision-making, human-com
 **Research interests:** Decision-Making, Human-Computer Interaction, Intervention and Training, User-centered Design
 :::
 
-## Graduate students
+## Graduate Student
 
 ::: {.person .member-card}
 
@@ -38,13 +38,11 @@ Andrew Atchley is a doctoral student interested in decision-making, cognitive wo
 
 :::
 
-## Undergraduate research assistants
+## Undergraduate Research Team
 
 ::: {.placeholder}
 ### Student Name
-
-Major, year  
-Project: ...  
+Actively Recruiting... 
 :::
 
 
