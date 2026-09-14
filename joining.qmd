@@ -18,8 +18,6 @@ You may be a good fit if you are interested in one or more of the following:
 
 ## How to prepare
 
-## How to prepare
-
 Students do not need to know everything before joining the CHAT Lab. Helpful preparation includes curiosity, reliability, careful communication, attention to detail, and willingness to learn research methods.
 
 Because many CHAT Lab projects involve interactive technologies, simulations, data analysis, and prototype development, technical skills are a strong plus. Relevant experience may include but not limited to **Python, R, C/C++, Unity, JavaScript, HTML/CSS, web development, experiment programming, app development, data visualization, machine learning, or interface prototyping**.
@@ -42,5 +40,5 @@ Sincerely,
 ## Current openings
 
 - Undergraduate research assistants: status TBD
-- Graduate students: actively recruiting MS and PhD students to begin in the 2026-2027 academic year
+- Graduate students: actively recruiting MS and PhD students to begin in the 2027-2028 academic year
 

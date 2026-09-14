@@ -25,13 +25,6 @@
     "href": "joining.html#how-to-prepare",
     "title": "Join the Lab",
     "section": "How to prepare",
-    "text": "How to prepare"
-  },
-  {
-    "objectID": "joining.html#how-to-prepare-1",
-    "href": "joining.html#how-to-prepare-1",
-    "title": "Join the Lab",
-    "section": "How to prepare",
     "text": "How to prepare\nStudents do not need to know everything before joining the CHAT Lab. Helpful preparation includes curiosity, reliability, careful communication, attention to detail, and willingness to learn research methods.\nBecause many CHAT Lab projects involve interactive technologies, simulations, data analysis, and prototype development, technical skills are a strong plus. Relevant experience may include but not limited to Python, R, C/C++, Unity, JavaScript, HTML/CSS, web development, experiment programming, app development, data visualization, machine learning, or interface prototyping.\nThese skills are not required for every role. Students can also contribute through literature review, study design, IRB preparation, participant recruitment, data collection, qualitative coding, statistical analysis, usability testing, research writing, and conference presentations."
   },
   {
@@ -46,7 +39,7 @@
     "href": "joining.html#current-openings",
     "title": "Join the Lab",
     "section": "Current openings",
-    "text": "Current openings\n\nUndergraduate research assistants: status TBD\nGraduate students: actively recruiting MS and PhD students to begin in the 2026-2027 academic year"
+    "text": "Current openings\n\nUndergraduate research assistants: status TBD\nGraduate students: actively recruiting MS and PhD students to begin in the 2027-2028 academic year"
   },
   {
     "objectID": "publications.html",
@@ -186,21 +179,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "This cross-listed undergraduate and graduate course introduces students to major concepts, theories, and methods in human factors psychology and human-computer interaction. Topics include human information processing, usability, user-centered design, interface evaluation, human performance, decision-making, and the design of technologies that support safe and effective interaction.\n\n\n\nThis graduate-level course introduces students to quantitative statistical methods used in psychological and behavioral research. The course emphasizes statistical reasoning, research design, data analysis, interpretation, and reproducible workflows using R.\nStudents learn to organize, analyze, visualize, and report data using R, with attention to both conceptual understanding and practical application in research contexts."
+    "text": "This cross-listed undergraduate and graduate course introduces students to major concepts, theories, and methods in human factors psychology and human-computer interaction. Topics include human information processing, usability, user-centered design, interface evaluation, human performance, decision-making, and the design of technologies that support safe and effective interaction.\n\n\n\n\n\n\nThis graduate-level course introduces students to quantitative statistical methods used in psychological and behavioral research. The course emphasizes statistical reasoning, research design, data analysis, interpretation, and reproducible workflows using R.\nStudents learn to organize, analyze, visualize, and report data using R, with attention to both conceptual understanding and practical application in research contexts."
   },
   {
     "objectID": "teaching.html#courses-i-am-currently-teaching-at-uah",
     "href": "teaching.html#courses-i-am-currently-teaching-at-uah",
     "title": "Teaching",
     "section": "",
-    "text": "This cross-listed undergraduate and graduate course introduces students to major concepts, theories, and methods in human factors psychology and human-computer interaction. Topics include human information processing, usability, user-centered design, interface evaluation, human performance, decision-making, and the design of technologies that support safe and effective interaction.\n\n\n\nThis graduate-level course introduces students to quantitative statistical methods used in psychological and behavioral research. The course emphasizes statistical reasoning, research design, data analysis, interpretation, and reproducible workflows using R.\nStudents learn to organize, analyze, visualize, and report data using R, with attention to both conceptual understanding and practical application in research contexts."
+    "text": "This cross-listed undergraduate and graduate course introduces students to major concepts, theories, and methods in human factors psychology and human-computer interaction. Topics include human information processing, usability, user-centered design, interface evaluation, human performance, decision-making, and the design of technologies that support safe and effective interaction.\n\n\n\n\n\n\nThis graduate-level course introduces students to quantitative statistical methods used in psychological and behavioral research. The course emphasizes statistical reasoning, research design, data analysis, interpretation, and reproducible workflows using R.\nStudents learn to organize, analyze, visualize, and report data using R, with attention to both conceptual understanding and practical application in research contexts."
   },
   {
     "objectID": "teaching.html#courses-i-have-taught-in-the-past",
     "href": "teaching.html#courses-i-have-taught-in-the-past",
     "title": "Teaching",
     "section": "Courses I have taught in the past",
-    "text": "Courses I have taught in the past\n\nUndergraduate\n\n\nPSYC 3090 — Introduction to Experimental Psychology / Statistics\nClemson University\nThis course introduced students to statistical reasoning and quantitative methods in psychology. Topics included descriptive statistics, probability, hypothesis testing, correlation, t-tests, analysis of variance, regression, and interpretation of statistical results.\nThe course was similar in content to PSY 300 Psychological Statistics at UAH, with an emphasis on helping students understand how statistical tools are used to answer psychological research questions.\n\n\nPSYC 3100 — Advanced Experimental Psychology / Research Methods\nClemson University\nThis course focused on research design, experimental methods, measurement, validity, ethics, data collection, and scientific communication in psychology. Students learned how to evaluate psychological research and develop empirical studies grounded in theory and appropriate methodology.\nThe course was similar in content to PSY 303 Research Methods at UAH, with an emphasis on designing, conducting, interpreting, and communicating psychological research.\n\n\nPSYC 3340 — Cognitive Psychology\nClemson University\nThis course introduced students to major theories and empirical findings in cognitive psychology, including attention, perception, memory, working memory, language, problem-solving, reasoning, decision-making, and cognitive control.\n\n\nGraduate\nGraduate teaching experience will be updated as new courses are developed and taught at UAH."
+    "text": "Courses I have taught in the past\n\nPSYC 3090 — Introduction to Experimental Psychology / Statistics\nClemson University\nThis course introduced students to statistical reasoning and quantitative methods in psychology. Topics included descriptive statistics, probability, hypothesis testing, correlation, t-tests, analysis of variance, regression, and interpretation of statistical results.\nThe course was similar in content to PSY 300 Psychological Statistics at UAH, with an emphasis on helping students understand how statistical tools are used to answer psychological research questions.\n\n\nPSYC 3100 — Advanced Experimental Psychology / Research Methods\nClemson University\nThis course focused on research design, experimental methods, measurement, validity, ethics, data collection, and scientific communication in psychology. Students learned how to evaluate psychological research and develop empirical studies grounded in theory and appropriate methodology.\nThe course was similar in content to PSY 303 Research Methods at UAH, with an emphasis on designing, conducting, interpreting, and communicating psychological research.\n\n\nPSYC 3340 — Cognitive Psychology\nClemson University\nThis course introduced students to major theories and empirical findings in cognitive psychology, including attention, perception, memory, working memory, language, problem-solving, reasoning, decision-making, and cognitive control."
   },
   {
     "objectID": "teaching.html#student-mentoring",
@@ -214,14 +207,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "CHAT Lab — Cognition, Human Factors, and Applied Technology\nDepartment of Psychology\nThe University of Alabama in Huntsville\nHuntsville, Alabama\nDirector: Yizhou “Louis” Liu, PhD\nEmail: yl1589@uah.edu\nOffice: Morton Hall 210\nLab space: [replace when assigned]"
+    "text": "CHAT Lab — Cognition, Human Factors, and Applied Technology\nDepartment of Psychology\nThe University of Alabama in Huntsville\nHuntsville, Alabama\nDirector: Yizhou “Louis” Liu, PhD\nEmail: yl1589@uah.edu\nOffice: Morton Hall 210\nLab space: Morton 025 & Morton 032"
   },
   {
     "objectID": "contact.html#contact-chat-lab",
     "href": "contact.html#contact-chat-lab",
     "title": "Contact",
     "section": "",
-    "text": "CHAT Lab — Cognition, Human Factors, and Applied Technology\nDepartment of Psychology\nThe University of Alabama in Huntsville\nHuntsville, Alabama\nDirector: Yizhou “Louis” Liu, PhD\nEmail: yl1589@uah.edu\nOffice: Morton Hall 210\nLab space: [replace when assigned]"
+    "text": "CHAT Lab — Cognition, Human Factors, and Applied Technology\nDepartment of Psychology\nThe University of Alabama in Huntsville\nHuntsville, Alabama\nDirector: Yizhou “Louis” Liu, PhD\nEmail: yl1589@uah.edu\nOffice: Morton Hall 210\nLab space: Morton 025 & Morton 032"
   },
   {
     "objectID": "projects/privacy-fatigue.html",

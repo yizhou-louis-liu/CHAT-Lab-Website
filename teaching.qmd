@@ -4,11 +4,12 @@ title: "Teaching"
 
 ## Courses I am currently teaching at UAH
 
+### Undergraduate-level
 ### PSY 403/503/703 — Human Factors Psychology / Human-Computer Interaction
 
 This cross-listed undergraduate and graduate course introduces students to major concepts, theories, and methods in human factors psychology and human-computer interaction. Topics include human information processing, usability, user-centered design, interface evaluation, human performance, decision-making, and the design of technologies that support safe and effective interaction.
 
-
+### Graduate-level
 ### PSY 713 — Quantitative Statistical Methods
 
 This graduate-level course introduces students to quantitative statistical methods used in psychological and behavioral research. The course emphasizes statistical reasoning, research design, data analysis, interpretation, and reproducible workflows using R.
@@ -18,8 +19,6 @@ Students learn to organize, analyze, visualize, and report data using R, with at
 ---
 
 ## Courses I have taught in the past
-
-### Undergraduate
 
 ### PSYC 3090 — Introduction to Experimental Psychology / Statistics  
 *Clemson University*
@@ -41,10 +40,6 @@ The course was similar in content to **PSY 303 Research Methods** at UAH, with a
 
 This course introduced students to major theories and empirical findings in cognitive psychology, including attention, perception, memory, working memory, language, problem-solving, reasoning, decision-making, and cognitive control.
 
-
-### Graduate
-
-Graduate teaching experience will be updated as new courses are developed and taught at UAH.
 
 ---
 
