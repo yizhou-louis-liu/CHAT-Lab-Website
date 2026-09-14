@@ -38,9 +38,6 @@ CHAT Lab is also interested in usability, safety, and user-centered design in ap
 :::
 
 ## Example of Projects
-
-The `projects/` folder includes starter pages for project writeups. These can become public-facing summaries for students, collaborators, and grant reviewers.
-
 - [Stress and digital privacy decisions](projects/stress-privacy.qmd)
 - [Age-inclusive digital privacy education tutorial (Prototype Testing)](projects/privacy-education.qmd)
 - [Age-inclusive digital privacy education tutorial (Effectiveness Evaluation)](projects/privacy-education_quantitative.qmd)
